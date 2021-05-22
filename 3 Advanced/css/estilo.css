@@ -1,0 +1,49 @@
+/** Seletor universal **/
+* {
+
+}
+
+/** Seletor de texto **/
+
+h1 {
+
+}
+h2, h3 {
+
+}
+
+/** Seletor de class **/
+
+.verde {
+
+}
+
+/** Seletor de ID **/
+
+#identificador1 {
+
+}
+
+/** Seletor de filho **/
+
+li>a {
+
+}
+
+/** Seletor de descendente **/
+
+p a {
+
+}
+
+/** Seletor de irmão adjacente **/
+
+h1+p {
+
+}
+
+/** Seletor de irmão geral **/
+
+h1~p {
+	
+}
